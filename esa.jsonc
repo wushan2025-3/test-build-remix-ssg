@@ -1,0 +1,6 @@
+{
+  "name": "test-build-remix-ssg",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assetsDirectory": "build/client"
+}
